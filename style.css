@@ -1,0 +1,121 @@
+body {
+    color: #fcf1fe;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #720e9e;
+}
+
+.container {
+    display: flex;
+    
+}
+
+.con-left {
+  width: 70%;
+  background-image: url(https://www.rollingstone.com/wp-content/uploads/2018/11/808s-kanye-west-808s-heartbreak-promo-photo.jpg?w=1024);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.con-middle {
+   font-size: 14px;
+    width: 30%;
+}
+
+.con-middle h6{
+padding: 0;
+margin: 5px 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 10px;
+}
+
+.con-right {
+    background-color: #fcf1fe;
+ 
+}
+
+.con-right img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+a:link {
+    text-decoration: none;
+  }
+  
+a:hover {
+    text-decoration: underline;
+  }
+
+h6 {
+    color: lightpink;
+}
+
+.buttons p{
+    background-color: #86429b;
+    width: 15%;
+    height: 10%;
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 137px;
+    padding: 10px;    
+    
+}
+
+con-left img{
+    display: inline-block;
+  }
+
+.buttons-1 p{
+    background-color: #703781;
+    width: 25%;
+    height: 7%;
+    position: absolute;
+    top: 190px;
+    left: 0;
+}
+.buttons-2 p{
+        background-color: #b174c4;
+        width: 20%;
+        height: 7%;
+        position: absolute;
+        top: 240px;
+        left: 0;
+}
+.buttons-3 p{
+            background-color: #a152b9;
+            width: 20%;
+            height: 7%;
+            position: absolute;
+            top: 282px;
+            left: 0;  
+}      
+
+.buttons-4 p{
+    background-color: #9b6baa;
+    width: 16%;
+    height: 7%;
+    position: absolute;
+    top: 332px;
+    left: 0;  
+}      
+
+.buttons-5 p{
+    background-color: #bd93ca;
+    width:13%;
+    height: 7%;
+    position: absolute;
+    top: 382px;
+    left: 0;  
+}
+
+.buttons-6 img{
+    position: absolute;
+    top: 502px;
+    left: 0;  
+    border: solid 8px white;
+}
